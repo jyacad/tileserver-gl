@@ -14,7 +14,7 @@
   "license": "BSD-2-Clause",
   "scripts": {
     "test": "mocha test/**.js",
-    "start": "node src/main.js"
+    "start": "run.sh"
   },
   "dependencies": {
     "async": "2.0.1",
